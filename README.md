@@ -10,6 +10,7 @@
 * [MiBench](#mibench)
     - [下載](#下載)
     - [構建](#構建)
+    - [執行](#執行)
 
 <!-- vim-markdown-toc -->
 
@@ -61,4 +62,10 @@ clean:
 
 ```zsh
 make
+```
+
+### 執行
+
+```zsh
+./bitcnts [圈數]
 ```
