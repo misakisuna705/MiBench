@@ -7,9 +7,9 @@
     - [目標](#目標)
 * [環境](#環境)
     - [cross compiler](#cross-compiler)
-* [lmbench](#lmbench)
+* [MiBench](#mibench)
     - [下載](#下載)
-    - [建構](#建構)
+    - [構建](#構建)
 
 <!-- vim-markdown-toc -->
 
@@ -33,7 +33,7 @@
 sudo apt install -y gcc-aarch64-linux-gnu
 ```
 
-## lmbench
+## MiBench
 
 ### 下載
 
@@ -41,7 +41,7 @@ sudo apt install -y gcc-aarch64-linux-gnu
 git clone --no-tags --depth 1 https://github.com/embecosm/mibench.git
 ```
 
-### 建構
+### 構建
 
 ```zsh
 cd mibench/automotive/bitcount
