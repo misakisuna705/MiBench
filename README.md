@@ -10,7 +10,7 @@
 * [MiBench](#mibench)
     - [下載](#下載)
         + [automotive](#automotive)
-            * [basicamath](#basicamath)
+            * [basicmath](#basicmath)
                 - [構建](#構建)
                 - [執行](#執行)
             * [bitcount](#bitcount)
@@ -104,7 +104,7 @@ git clone --no-tags --depth 1 https://github.com/embecosm/mibench.git
 
 #### automotive
 
-##### basicamath
+##### basicmath
 
 ###### 構建
 
